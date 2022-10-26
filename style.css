@@ -1,0 +1,73 @@
+.container{
+    margin-bottom: 50px;
+  
+}
+.orange-bg{
+    background-color: #fceae8;
+   border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+        /* ek sathe 3 ta cat class er padding r border fixed kore dite. */
+/* .cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius:10px;
+}  or  */
+
+.cat1{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat2{
+    background-color: purple;
+    padding: 10px 30px;
+    border-radius: 10px;
+
+}
+.cat3{
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+
+}
+       /* categories er under er sobgulu text er color white hobe. */
+.categories h1{
+    color: white;
+}
+    /* categories er under er sob gulu img 100px er hobe. */
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
